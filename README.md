@@ -7,4 +7,4 @@ Start with just a neuron, outputting to itself. More specifically for this neuro
 
 When the AI generating neuron program has been implemented, the program should execute another instance of itself. 
 
-Finally, create a copy of the entire project so far, have the copy modify the original with its output.
+Finally, create a copy of the entire project so far, have the copy modify the original with its output, and the original output back to the copy. 

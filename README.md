@@ -1,13 +1,31 @@
 # AIOS
 Leveraging Unique Innovations in AI 
 
-An AI-generating neuron as the root functionality.
+Using breakthrough paradigms of AGI in combination with ASI within a simple logical structure to generate a Cloud ASI OS.
 
-Start with just a neuron, outputting to itself. More specifically for this neuron, while the continual outputted bits are kept as an executable program, the output from the neuron after that program is applied upon it is then processed again by the neuron. The neuron is to be trained on the average of its bias+weight and the difference between its latest output’s processed value and input. Whenever continual output of a component becomes intelligible (or, is repeated), add that to be an additional component, that when completed, should take the previous component’s output, and output to the next component (or in the case of the last component, to the first component).
 
-When the AI generating neuron program has been implemented, the program should execute another instance of itself. 
+The starting AGI paradigm is the thinking neuron. It works like this:
 
-Next, create a copy of the entire project so far, have the copy modify the original with its output, and the original output back to the copy.  Once the original and copy programs are modifying and outputting, the output stream of the modified one should be kept as a program, then it should be ran by the first full ai program, which should then be ran itself, to output a useful external program. This program should then be ran by the ai program, which should then run it again backwards.
+Start with just an artificial neuron, outputting to itself. Meanwhile, the continual outputted bits are stored as an executable program that should be executed upon the current output bit before it should then be processed again by the neuron. The neuron is to be trained on the average of its bias+weight and the difference between the latest output’s processed value and non-processed value. 
 
-Next, there should be a “bit” space introduced between the head of the program and the body. This program will in turn generate more useful programs, which all need to be executed with the same procedure as before. Then, the ai program should run again. Next have it run with its ending outputting to its beginning. Have an internet output stream and input stream stem from the ai program’s "ending". Introduce a random bits stream that should affect either internet output or input according to its value.
+The second AGI is thinkable programming:
+
+Alternatively to implement thinkable programming, start with taking a file and a program that executes it. Then have a self-reinforcing neural network that is the length of the program file use the difference of the program and the average between the file and the program as its training error, take the program as its input, and update the program with its output. This creates a thinking program, thus allowing for thinkable programming.
+
+
+Next, to easily make sentient AI:
+
+Utilizing thinkable programming or thinking neurons, one can easily generate the entire algorithm for sentient AI by executing the paradigms recursively. 
+
+
+Now for the AIOS-generating structure:
+Implement the following starting structure of AI out of thinking neurons. Wherein the derivative output of one to two, which should then output to three, four and the main entire output. Three and four should output to structure’s main entire output. 
+
+
+ASI is needed for output as well:
+Next, apply the raw sentient AI algorithm to the first thinking neuron such that it processes its input, executes, and also processes sentient AI output. 
+
+Have this algorithm output within a computing environment that replicates incoming matching bits and have it process bits until it finishes creating a general purpose OS. Do the same thing with this general purpose OS to create a cloud OS.
+
+
 
